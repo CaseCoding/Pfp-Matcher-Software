@@ -6,10 +6,12 @@ Histogram Matching: Compares the color distribution of images.<br>
 Feature Matching: Matches structural features between images.<br>
 Overlay Generation: Places the profile picture onto the top-scoring banners, making visualization of matches easier.
 Custom Preference: Allows users to set a preference for color matching, feature matching, or both.
-Prerequisite<br>
+<br>
+Prerequisite
 Python 3.x
 OpenCV (cv2)
 NumPy
+<br>
 Installation<br>
 Clone the repository:
 ```git clone https://github.com/YourUsername/ImageMatcher.git```
