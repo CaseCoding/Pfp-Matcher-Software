@@ -4,8 +4,8 @@ This tool helps users find the best matches for their profile pictures against a
 Features
 Histogram Matching: Compares the color distribution of images.<br>
 Feature Matching: Matches structural features between images.<br>
-Overlay Generation: Places the profile picture onto the top-scoring banners, making visualization of matches easier.
-Custom Preference: Allows users to set a preference for color matching, feature matching, or both.
+Overlay Generation: Places the profile picture onto the top-scoring banners, making visualization of matches easier.<br>
+Custom Preference: Allows users to set a preference for color matching, feature matching, or both.<br>
 <br>
 Prerequisite
 Python 3.x
@@ -15,10 +15,16 @@ NumPy
 Installation<br>
 Clone the repository:
 ```git clone https://github.com/YourUsername/ImageMatcher.git```
+<br>
+<br>
 Navigate to the directory:
 ```cd ImageMatcher```
+<br>
+<br>
 Install the required packages:
 ```pip install opencv-python numpy```
+<br>
+<br>
 Usage<br>
 Run the main script:
 ```python main.py```
